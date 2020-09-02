@@ -1,4 +1,2 @@
 # rent
 rent
-abc
-wahhh
