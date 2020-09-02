@@ -3,3 +3,4 @@ rent
 add
 remove
 xxx
+rm
